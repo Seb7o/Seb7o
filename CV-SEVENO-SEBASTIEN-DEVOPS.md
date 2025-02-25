@@ -1,6 +1,5 @@
-**Séveno Sébastien**\
+## **Séveno Sébastien**
 **Ingénieur Infrastructure & DevOps**
-Disponnible ASAP
 
 ### Contact
 
@@ -99,7 +98,8 @@ Ingénieur Infrastructure & DevOps passionné, avec plus de 7 ans d'expérience 
 - Windows Server (1 an)
 - Routage, VLAN, DNS, VPN, DHCP (WireGuard, dnsmasq, Pi-hole) (2 ans)
 - Mail : IMAP, POP, (postfix, dovecot) (1 an)
-- Web : HTTP, SSL (apache2, haproxy, nginx) (5 ans) 
+- Web : HTTP, SSL (apache2, haproxy, nginx) (5 ans)
+- Téléphonie : SIP (C3X, FreePBX) (installation et test)
 - Stockage : ZFS, XFS, IPFS, NFS, SAN/NAS, SMB, FTP
 - Protocoles : couches IP, TCP/UDP, SNMP, SSH, ARP
 
