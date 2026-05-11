@@ -38,8 +38,11 @@ Here are some YouTube channels that helped me learn and might help you too:
 🇫🇷 **French**:  
 - [Benjamin Code](https://www.youtube.com/c/BenjaminCode)  
 - [Cocadmin](https://www.youtube.com/c/cocadmin)  
+- [Korben](https://www.youtube.com/c/korben)  
 - [Ici Amy Plant](https://www.youtube.com/c/IciAmyPlant)  
 - [iMot3k](https://www.youtube.com/c/iMot3k)  
+- [Underscore_](https://www.youtube.com/c/Underscore_)  
+- [Abrège](https://www.youtube.com/c/Abrège)  
 
 🌍 **English**:  
 - [Lawrence Systems](https://www.youtube.com/c/LawrenceSystems)  
@@ -48,8 +51,14 @@ Here are some YouTube channels that helped me learn and might help you too:
 - [Linux Tech Tips](https://www.youtube.com/c/LinusTechTips)  
 - [Hardware Haven](https://www.youtube.com/c/HardwareHaven)  
 - [BugBytes](https://www.youtube.com/c/BugBytes)  
-- [b0001](https://www.youtube.com/c/b0001)
-- [apalrd's adventures](https://www.youtube.com/c/apalrdsadventures)
+- [b0001](https://www.youtube.com/c/b0001)  
+- [apalrd's adventures](https://www.youtube.com/c/apalrdsadventures)  
+- [ArjanCodes](https://www.youtube.com/c/ArjanCodes)  
+- [You Suck at Programming](https://www.youtube.com/c/yousuckatprogramming)  
+- [jakkuh](https://www.youtube.com/c/jakkuh_t)  
+- [Jeff Geerling](https://www.youtube.com/c/JeffGeerling)  
+- [Low Level](https://www.youtube.com/c/LowLevelTV)  
+- [Craft Computing](https://www.youtube.com/c/CraftComputing)  
 
 ### Contributions & Suggestions  
 I always welcome **ideas and feedback**, but keep in mind that these projects are built **for me, by me**, so not every suggestion will be relevant. **There’s no fixed roadmap**—homelabs are endless projects: adding something always creates new needs, which leads to more projects, and so on...  
