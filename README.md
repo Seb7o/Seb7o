@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Seb (Seb7o)  
+## Hi, I'm Seb
 
-### 🏠 About Me  
+### About Me  
 I'm an individual contributor passionate about **homelabs, automation, and DevOps**. My GitHub primarily serves as an **archive for my personal projects**, which is why you might not see many public repositories—most of them are either:  
 - Too specific to my personal needs  
 - Related to specific projects  
@@ -13,25 +13,27 @@ My main project is my **homelab**, a playground where I learn, automate, and bui
 - **Android apps**, like one for organizing small-group sports events and another for media requests  
 - **A messenger bot** (pre-ChatGPT era) that automated content downloads  
 
-### 🚀 Why I'm Sharing My Homelab  
+### Why I'm Sharing My Homelab  
 Recently, I started documenting and sharing my homelab for three reasons:  
 1. **Security** – Exposing infrastructure details forces me to improve security.  
 2. **Helping Others** – Some friends are getting into homelabs, and I want to make it easier for them.  
-3. **Professional Visibility** – It’s a great way to showcase my problem-solving and infrastructure design skills to recruiters.  
+3. **Professional Visibility** – It’s a great way to showcase my problem-solving and infrastructure design skills to recruiters.
+[EDIT] : I switched my homelab repo from public to private. As it grows, it now contains to much sensitive informations about my infrastructure, and I need time to dig into security concern to make sure I can share it without exposing me to risks. 
+
 
 I'm also looking for potential collaborators, especially as my **streaming platform project** grows and demands more time.  
 
-### ⚡ Notable Achievements  
+### Notable Achievements  
 These projects have taught me so much and strengthened my passion for **infrastructure, automation, and problem-solving**. More than anything, I want others to experience the same **self-satisfaction of growing a personal project**.  
 
-### 📖 Skills Needed to Use/Contribute  
+### Skills Needed to Use/Contribute  
 If you want to explore my projects, some **basic skills** will be helpful:  
 - Linux fundamentals  
 - Networking concepts  
 - Basic programming knowledge  
 - English (since most documentation is in English)  
 
-### 🎥 Recommended Learning Resources  
+### Recommended Learning Resources  
 Here are some YouTube channels that helped me learn and might help you too:  
 🇫🇷 **French**:  
 - [Benjamin Code](https://www.youtube.com/c/BenjaminCode)  
@@ -46,10 +48,11 @@ Here are some YouTube channels that helped me learn and might help you too:
 - [Linux Tech Tips](https://www.youtube.com/c/LinusTechTips)  
 - [Hardware Haven](https://www.youtube.com/c/HardwareHaven)  
 - [BugBytes](https://www.youtube.com/c/BugBytes)  
-- [b0001](https://www.youtube.com/c/b0001)  
+- [b0001](https://www.youtube.com/c/b0001)
+- [apalrd's adventures](https://www.youtube.com/c/apalrdsadventures)
 
-### 💬 Contributions & Suggestions  
+### Contributions & Suggestions  
 I always welcome **ideas and feedback**, but keep in mind that these projects are built **for me, by me**, so not every suggestion will be relevant. **There’s no fixed roadmap**—homelabs are endless projects: adding something always creates new needs, which leads to more projects, and so on...  
 
-### 📜 More About Me  
-If you're curious about my professional background, **[here's my resume (French)](./CV-SEVENO-SEBASTIEN-DEVOPS.md)**.  
+### More About Me  
+If you're curious about my professional background, feel free ton contact me!  
